@@ -9,7 +9,7 @@ Predicting presence of Heart Diseases using Machine Learning
   3. Logistic Regression
   
 #### HD_Prediction2
-  1. K-Nearest Neg=ighbors (KNN)
+  1. K-Nearest Neighbors (KNN)
   
 #### HD_Prediction3
   1. SVM
